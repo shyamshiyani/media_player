@@ -11,7 +11,7 @@
   - **Home Screen**: The main screen where users can browse and select music.
   - **Detail Screen**: A detailed view of the selected music, including additional options and information.
   - **Video Screen**: A detailed view of the selected Video Screen, including additional options and information.
-  - 
+
 ## Photos
 ![2](https://github.com/user-attachments/assets/c650dc63-fb08-44c7-a95b-58270b3d072e)
 ![1](https://github.com/user-attachments/assets/5d898806-eab5-448d-9d49-23618bab0f63)
