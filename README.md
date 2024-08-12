@@ -1,16 +1,12 @@
-# media_player
+# Music Wave
 
-A new Flutter project.
+**Music Wave** is a Flutter application that provides users with the functionality to listen to music seamlessly.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Play/Pause Functionality**: Users can easily play and pause music with a simple tap.
+  
+- **Screens**:
+  - **Splash Screen**: The introductory screen that appears when the app is launched.
+  - **Home Screen**: The main screen where users can browse and select music.
+  - **Detail Screen**: A detailed view of the selected music, including additional options and information.
